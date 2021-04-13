@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 276d8e6ef86a9a447bb9b868b369d43f, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  money: 2151
+  gumbleCount: 3
+  lastItems:
+  - id: 13
+    rarity: 0
+    category: 4
+    cost: 140
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: 1e375876fe50b2b40893fd5e54142d37, type: 3}
+  - id: 0
+    rarity: 0
+    category: 4
+    cost: 100
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: 280ee57f60031794eac7831276531e17, type: 3}
+  - id: 1
+    rarity: 0
+    category: 4
+    cost: 100
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: 5ac3f585b6c3c704e9d5d035c12fa4b8, type: 3}
+  - id: 2
+    rarity: 0
+    category: 4
+    cost: 100
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: 97ea81eabde380f47bfd703927c375af, type: 3}
+  - id: 4
+    rarity: 0
+    category: 0
+    cost: 100
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: 03ee45342af8ec04e8c8686f6d58234c, type: 3}
+  - id: 10
+    rarity: 0
+    category: 2
+    cost: 60
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: 01e7b99083104164e95e5619d6df46ad, type: 3}
+  - id: 11
+    rarity: 0
+    category: 2
+    cost: 60
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: 559f72e8d46f63d44afeae2780682dd3, type: 3}
+  - id: 3
+    rarity: 0
+    category: 4
+    cost: 100
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: 1818594df487fe64eacba6e30d13da94, type: 3}
+  - id: 4
+    rarity: 0
+    category: 1
+    cost: 50
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: a30e43023b3611b42a3f5e651416c46d, type: 3}

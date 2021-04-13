@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3733ebee93929af4f91f0624ccccb964, type: 3}
+  m_Name: Pets
+  m_EditorClassIdentifier: 
+  category: 3
+  commonCost: 180
+  rareCost: 260
+  epicCost: 330
+  rarePercent: 0.25
+  epicPercent: 0.05
+  items:
+  - id: 0
+    rarity: 0
+    category: 3
+    cost: 180
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: baf62a9e94bab2d4b9a16043772b32f4, type: 3}
+  - id: 1
+    rarity: 1
+    category: 3
+    cost: 260
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: 6e330958e4c8e8742a96ac03804f4eb7, type: 3}
+  - id: 2
+    rarity: 2
+    category: 3
+    cost: 330
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: 7bf6a48c9ffbd8843bb057eeb31aa860, type: 3}
+  - id: 3
+    rarity: 0
+    category: 3
+    cost: 180
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: 9780d8ce6c072414abd8f789dec8abcf, type: 3}
+  - id: 4
+    rarity: 0
+    category: 3
+    cost: 180
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: 98e6c91320129544da735dc908e3cd7f, type: 3}
+  - id: 5
+    rarity: 0
+    category: 3
+    cost: 180
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: ea08d99010a0b6445b526cc5749eccad, type: 3}
+  - id: 6
+    rarity: 0
+    category: 3
+    cost: 180
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: 232ba7bf53ac02843ac5b83d33b32e8f, type: 3}
+  - id: 7
+    rarity: 0
+    category: 3
+    cost: 180
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: 90826ca3148b4af4db54d8fa0146c903, type: 3}
+  - id: 8
+    rarity: 0
+    category: 3
+    cost: 180
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: dec705b6b2095934ca36a694c80a2f7b, type: 3}
+  - id: 9
+    rarity: 0
+    category: 3
+    cost: 180
+    isLocked: 1
+    sprite: {fileID: 21300000, guid: b25d92a4073f72e49b621b67660b4b35, type: 3}
